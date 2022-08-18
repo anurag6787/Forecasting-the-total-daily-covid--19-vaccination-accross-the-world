@@ -1,0 +1,2 @@
+# Forecasting-the-total-daily-covid--19-vaccination-accross-the-world
+Performed EDA and introduced the Box-Cox transformation to stabilize the variance and made the time series normal   • Examined stationarity of the series using ADF &amp; KPSS tests, and fitted ARIMA model based on optimal AIC value using python   • Analyzed the fitted ARIMA model by checking for the assumptions like normality of residuals using Anderson-Darling test, QQ plot &amp; Mann-Whitney U test, and correlation of residuals using Ljung-Box test under the Box-Jenkins methodology
